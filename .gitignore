@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+t.txt
+tree.txt
+
+# Raw Instacart dataset
+data/raw/
+
+# Generated data
+data/processed/**/*.parquet
+data/processed/**/*.duckdb
+data/processed/**/*.joblib
+data/processed/duckdb_tmp/
+
+# Old experiments
+models/
+experiments/

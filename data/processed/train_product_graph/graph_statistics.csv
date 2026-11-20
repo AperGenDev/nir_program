@@ -1,0 +1,2 @@
+train_users,train_orders,nodes,edges,components,largest_component,density,avg_degree,min_pair_orders,min_lift
+105074,1640713,252,7188,2,251,0.2272813507873269,57.04761904761905,500,1.2

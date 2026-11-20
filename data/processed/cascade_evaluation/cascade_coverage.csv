@@ -1,0 +1,6 @@
+alpha,repeat_weight,graph_weight,test_users,unique_recommended_products_at_20,target_catalog_size
+0.0,0.0,1.0,26135,655,25018
+0.25,0.25,0.75,26135,14597,25018
+0.5,0.5,0.5,26135,21300,25018
+0.75,0.75,0.25,26135,24106,25018
+1.0,1.0,0.0,26135,26119,25018

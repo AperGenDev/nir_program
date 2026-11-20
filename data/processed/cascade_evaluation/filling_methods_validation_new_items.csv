@@ -1,0 +1,4 @@
+method,method_label,K,new_target_items_total,new_target_items_found,new_item_recall,users_with_20_recommendations,share_with_20_recommendations,mean_recommendation_count,filler_recommendations
+repeat_only,Повторные покупки без дополнения,20,55271,0,0.0,10650,0.8208092485549133,18.49549132947977,0
+repeat_plus_graph,Повторные покупки + граф,20,55271,306,0.005536357221689494,12893,0.9936801541425819,19.93140655105973,18631
+repeat_plus_popularity,Повторные покупки + популярность,20,55271,202,0.0036547194731414304,12975,1.0,20.0,19521

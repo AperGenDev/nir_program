@@ -1,0 +1,2 @@
+config,train_users,train_orders,nodes,edges,components,largest_component,density,avg_degree,min_pair_orders,min_lift
+top_2000_pair_100_lift_1.2,92099,1438711,2000,73657,11,1990,0.036846923461730866,73.657,100,1.2
